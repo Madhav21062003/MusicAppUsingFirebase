@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440861833362",
+    "project_id": "e-music-f696c",
+    "storage_bucket": "e-music-f696c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440861833362:android:8eb5ea9f1a7e8e50a90e4b",
+        "android_client_info": {
+          "package_name": "com.madhavsolanki.e_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_gwlyIIhOQnvIdLF1nv6Zj5h1MBjXjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
